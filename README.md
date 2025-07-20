@@ -16,6 +16,6 @@ A simple JavaScript weather app using the OpenWeatherMap API.
 
 ## Run Locally
 ```bash
-git clone https://github.com/yourusername/weatherApp.git
-cd weather-app
+git clone https://github.com/fatemehmeh25/weatherApp.git
+cd weatherApp
 open index.html
